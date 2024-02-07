@@ -1,6 +1,6 @@
-# Task Manager
+# Todo
 
-Task Manager is a simple web application for managing tasks. It allows users to register, log in, and create tasks with titles, descriptions, and due dates. Users can mark tasks as complete or incomplete, edit tasks, and delete tasks. The application also features user profiles where users can view and edit their account information.
+Todo is a simple web application for managing tasks. It allows users to register, log in, and create tasks with titles, descriptions, and due dates. Users can mark tasks as complete or incomplete, edit tasks, and delete tasks. The application also features user profiles where users can view and edit their account information.
 
 ## Features
 
